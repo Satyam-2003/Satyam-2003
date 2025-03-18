@@ -97,5 +97,8 @@
 > *"The best way to predict the future is to create it." — Alan Kay*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Satyam-2003/Satyam-2003/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://skyline.github.com/Satyam-2003/2024">
+    <img src="https://github.com/Satyam-2003/Satyam-2003/blob/main/assets/skyline-preview.gif" alt="GitHub Skyline" />
+  </a>
 </p>
+
