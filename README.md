@@ -1,6 +1,6 @@
 <!-- 👇 GitHub Profile Banner -->
 <p align="center">
-  <img src="banner.png" alt="Satyam Singh GitHub Banner" style="width:100%; border-radius:12px;" />
+  <img src="banner.webp" alt="Satyam Singh GitHub Banner" style="width:100%; border-radius:12px;" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Satyam Singh</h1>
