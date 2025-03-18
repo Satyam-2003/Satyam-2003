@@ -45,7 +45,7 @@
 <summary>📈 GitHub Stats & Activity</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam200singh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyam-2003&show_icons=true&theme=tokyonight&hide_border=true />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam200singh&layout=compact&theme=radical" alt="Top Languages" />
   <br />
