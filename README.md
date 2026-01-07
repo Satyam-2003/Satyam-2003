@@ -37,7 +37,7 @@
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,tailwind,prisma,redux,figma,appwrite,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,tailwind,prisma,redux,nestjs,figma,appwrite,git" />
 </p>
 
 ---
