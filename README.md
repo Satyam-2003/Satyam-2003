@@ -46,8 +46,8 @@
 <details>
   <summary><strong>📂 Tap to Explore</strong></summary>
 
-- 🍽 **[Food Delivery App (MERN)](https://github.com/satyam200singh/food-delivery)**  
-  <sub>Admin Panel • Cart System • Secure Payment Integration</sub>
+- 🍽 **[Nyaya-Setu App (MERN)](https://github.com/Satyam-2003/nyaya-setu)**  
+  <sub>Admin Panel • Client • Lawyer</sub>
 
 - 📰 **[News App (React + Bootstrap)](https://github.com/satyam200singh/news-app)**  
   <sub>Multi-category UI • API Integration • Mobile Responsive</sub>
